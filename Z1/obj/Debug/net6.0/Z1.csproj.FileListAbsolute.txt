@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/bin/Debug/net6.0/Z1
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/bin/Debug/net6.0/Z1.deps.json
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/bin/Debug/net6.0/Z1.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/bin/Debug/net6.0/Z1.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/bin/Debug/net6.0/ref/Z1.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/bin/Debug/net6.0/Z1.pdb
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/obj/Debug/net6.0/Z1.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/obj/Debug/net6.0/Z1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/obj/Debug/net6.0/Z1.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/obj/Debug/net6.0/Z1.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/obj/Debug/net6.0/Z1.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/obj/Debug/net6.0/Z1.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/obj/Debug/net6.0/ref/Z1.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/obj/Debug/net6.0/Z1.pdb
+/Users/ekaterinaromanova/Desktop/Hollydays/Z1/obj/Debug/net6.0/Z1.genruntimeconfig.cache
