@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/obj/Debug/net6.0/Z2.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/obj/Debug/net6.0/Z2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/obj/Debug/net6.0/Z2.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/obj/Debug/net6.0/Z2.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/obj/Debug/net6.0/Z2.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/bin/Debug/net6.0/Z2
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/bin/Debug/net6.0/Z2.deps.json
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/bin/Debug/net6.0/Z2.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/bin/Debug/net6.0/Z2.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/bin/Debug/net6.0/ref/Z2.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/bin/Debug/net6.0/Z2.pdb
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/obj/Debug/net6.0/Z2.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/obj/Debug/net6.0/ref/Z2.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/obj/Debug/net6.0/Z2.pdb
+/Users/ekaterinaromanova/Desktop/Hollydays/Z2/obj/Debug/net6.0/Z2.genruntimeconfig.cache
