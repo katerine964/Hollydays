@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/obj/Debug/net6.0/Misha_i_Negativ.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/obj/Debug/net6.0/Misha_i_Negativ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/obj/Debug/net6.0/Misha_i_Negativ.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/obj/Debug/net6.0/Misha_i_Negativ.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/obj/Debug/net6.0/Misha_i_Negativ.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/bin/Debug/net6.0/Misha_i_Negativ
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/bin/Debug/net6.0/Misha_i_Negativ.deps.json
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/bin/Debug/net6.0/Misha_i_Negativ.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/bin/Debug/net6.0/Misha_i_Negativ.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/bin/Debug/net6.0/ref/Misha_i_Negativ.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/bin/Debug/net6.0/Misha_i_Negativ.pdb
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/obj/Debug/net6.0/Misha_i_Negativ.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/obj/Debug/net6.0/ref/Misha_i_Negativ.dll
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/obj/Debug/net6.0/Misha_i_Negativ.pdb
+/Users/ekaterinaromanova/Desktop/Hollydays/Misha_i_Negativ/obj/Debug/net6.0/Misha_i_Negativ.genruntimeconfig.cache
